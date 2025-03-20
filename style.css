@@ -854,10 +854,10 @@ CSS INDEX
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 }
 .breadcumb-area.breadcumb-2 {
-    background: rgba(0, 0, 0, 0) url("images/banner/banner3.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("images/bg/breadcumb3.jpg") no-repeat scroll 0 0;
 }
 .breadcumb-area.breadcumb-3 {
-    background: rgba(0, 0, 0, 0) url("images/banner/banner2.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("images/bg/breadcumb3.jpg") no-repeat scroll 0 0;
 }
 /* shop full grid page */
 

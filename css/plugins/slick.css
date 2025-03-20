@@ -116,21 +116,6 @@
 }
 
 
-
-
-
-
-
-
-
-/*Slick Theme CSS Style*/
-@charset 'UTF-8';
-/* Slider */
-.slick-loading .slick-list
-{
-    background: #fff url('../../img/icons/ajax-loader.gif') center center no-repeat;
-}
-
 /* Icons */
 @font-face
 {
