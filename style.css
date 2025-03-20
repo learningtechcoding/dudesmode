@@ -832,6 +832,9 @@ CSS INDEX
     -webkit-transform: translate(-50%);
     transform: translate(-50%);
 }
+.header-area{
+    background-color: #ccc;
+}
 .bred-hading > h5 {
     color: #fff;
     font-size: 16px;

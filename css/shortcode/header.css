@@ -165,7 +165,7 @@ Version: 1.0
  }
  /*Sticky Menu*/
 .sticky {
-  background: rgba(255, 255, 255, 0.95) none repeat scroll 0 0;
+  background: #ccc none repeat scroll 0 0;
   box-shadow: 0 1px 3px rgba(50, 50, 50, 0.4);
   left: 0;
   margin: auto;
@@ -181,6 +181,8 @@ Version: 1.0
 }
 .logo {
 	transition: all 0.3s ease 0s;
+
+  padding: 10px 0;
 }
 .logo img{
 	transition: all 0.3s ease 0s;
@@ -190,7 +192,7 @@ Version: 1.0
 }
 
 .logo img {
-  width: 47px;
+  width: 130px;
 }
 .sticky .cart-icon {
   line-height: 90px;
@@ -462,6 +464,14 @@ Version: 1.0
     display: block;
 }
 
+
+@media(min-width:992px)
+{
+  .menuewebsite{
+    display: flex !important;
+    align-items: center ;
+  }
+}
 
 
 
